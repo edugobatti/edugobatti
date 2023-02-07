@@ -1,5 +1,8 @@
-![Edugobatti GitHub stats](https://github-readme-stats.vercel.app/api?username=edugobatti&show_icons=true&theme=dracula&count_private=true)
+<div>
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=edugobatti&show_icons=true&theme=dracula&count_private=true"/>
+<img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=edugobatti&layout=compact&theme=dracula"/>
 
+</div>
 ## SO's
 
 <div style="display: inline_block">
